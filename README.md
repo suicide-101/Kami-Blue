@@ -21,9 +21,8 @@
 ## 🛠️ How to Use
 
 1. Use any 1.12.2 Forge loader  
-2. Place `KamiBlue.jar` into `mods/`  
+2. Run `Loader.exe`  
 3. Press `Right Shift` to open GUI
-
 ---
 
 ## 📥 Download
